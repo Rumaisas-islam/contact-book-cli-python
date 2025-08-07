@@ -20,3 +20,5 @@ env/
 
 # Contact data file 
 contact.txt
+#Backup file
+contact_backup.txt
